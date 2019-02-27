@@ -2,8 +2,6 @@ FROM registry.fedoraproject.org/fedora:29
 
 MAINTAINER Stephen Gallagher <sgallagh@redhat.com>
 
-ARG TARBALL
-
 RUN dnf -y --setopt=install_weak_deps=False install \
 	clang \
 	clang-analyzer \
