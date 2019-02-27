@@ -1,4 +1,4 @@
-FROM registry.fedoraproject.org/fedora:29
+FROM registry.fedoraproject.org/fedora:rawhide
 
 MAINTAINER Stephen Gallagher <sgallagh@redhat.com>
 
