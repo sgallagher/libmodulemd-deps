@@ -1,2 +1,2 @@
 # libmodulemd-deps
-Repo containing container definitions for libmodulemd on various platforms
+Dockerfile containing the dependencies for building libmodulemd on Fedora
