@@ -1,2 +1,2 @@
 # libmodulemd-deps
-Repo containing container definitions for libmodulemd on various platforms
+All content is in other branches.
